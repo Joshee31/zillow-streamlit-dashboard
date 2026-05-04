@@ -222,7 +222,7 @@ def chart_config(chart: alt.Chart) -> alt.Chart:
     ).configure_title(
         color="#0f172a",
         fontSize=15,
-        fontWeight=650,
+        fontWeight=700,
         anchor="start",
         offset=12,
     ).configure_view(
